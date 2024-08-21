@@ -1,0 +1,16 @@
+.display{
+    height: 4rem;
+    width: 100%;
+    font-size: 4rem;
+    text-align: right;
+
+}
+
+.rDisplay{
+    /* display: inline-flex; */
+    font-size: xxx-large;   
+}
+
+.btn-calc{
+    font-size: xxx-large;
+}
